@@ -54,3 +54,9 @@ cnn models:
 ![](images/confusion_matrix.png)
 
 According to http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html, the results of this model are competititive with research papers puplished in 2014-2015
+
+## References
+
+The methodology for designing the CNN architecture for the Cifar10 dataset
+was based on the github tutorial by Chris Deotte's MNIST notebook on Kaggle:
+https://www.kaggle.com/cdeotte/how-to-choose-cnn-architecture-mnist
